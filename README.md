@@ -1,4 +1,4 @@
-# Helix Jump DQN Bot (Windows 11)
+# Helix Jump DQN Bot
 
 This project is a Deep Q-Learning (DQN) bot for automating gameplay, designed for Helix Jump-like games using screen capture and AI-based control.
 
@@ -19,7 +19,8 @@ This project is a Deep Q-Learning (DQN) bot for automating gameplay, designed fo
 - mac: `cmd + space` and type `terminal` for terminal
 - win: `win + r` for `cmd prompt`
 - download the repo by opening the main folder and click the code button at the top-right and click downlaod into zip
-- run `cd dqn-helixjump-master`
+- run `cd ~/Downloads/dqn-helixjump-main` # for Mac
+- run `cd %user%/Downlaods/dqn-helix-jump` # for Windows; %user% = the user or pc ex C:/Users/`ADAMthesmarty`>
 - run `python -m venv venv`
 - run `venv\Scripts\activate`  # Windows activation
 - run `source myvenv/bin/activate` # Linux and Mac
