@@ -21,12 +21,12 @@ This project is a Deep Q-Learning (DQN) bot for automating gameplay, designed fo
 - download the repo by opening the main folder and click the code button at the top-right and click downlaod into zip; also unzip the .zip into a folder
 - run `cd ~/Downloads/dqn-helixjump-main` # for Mac
 - run `cd %user%/Downlaods/dqn-helix-jump` # for Windows; %user% = the user or pc ex C:/Users/`ADAMthesmarty`>
-- run `python -m venv venv`
-- run `venv\Scripts\activate`  # Windows activation
-- run `source myvenv/bin/activate` # Linux and Mac
+- run `python -m venv helix-dqn`
+- run `helix-dqn\Scripts\activate`  # Windows activation
+- run `source helix-dqn/bin/activate` # Linux and Mac
 - run `pip install -r requirements.txt`
 - run `python 1.py` # Windows
 - run `python3 1.py` # Linux and Mac
 - IMPORTANT: when running helix_jump_dqn.py, you must open full screen on https://www.crazygames.com/game/helix-jump at the corner of the game windows it has a fullscreen button, click it.
 - for better results try to get a bright colored tower
-- when finished with project run: deactivate
+- when finished with project run: deactivate ; deactivates the venv
