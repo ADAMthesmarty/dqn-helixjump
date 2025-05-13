@@ -18,8 +18,8 @@ This project is a Deep Q-Learning (DQN) bot for automating gameplay, designed fo
 - go to the link above and select the OS u are on and do the instructions
 - mac: `cmd + space` and type `terminal` for terminal
 - win: `win + r` for `cmd prompt`
-- run `git clone https://github.com/ADAMthesmarty/dqn-helixjump.git`
-- run `cd dqn-helixjump`
+- download the repo by opening the main folder and click the code button at the top-right and click downlaod into zip
+- run `cd dqn-helixjump-master`
 - run `python -m venv venv`
 - run `venv\Scripts\activate`  # Windows activation
 - run `source myvenv/bin/activate` # Linux and Mac
